@@ -47,11 +47,7 @@ A responsive static fashion-themed website built using **HTML**, **CSS**, and ho
 
 ## 🖼 Screenshots
 
-| Page | Screenshot |
-|------|------------|
-| Home Page | ![alt text](image.png) |
-| AWS S3 Setup |![alt text](image-1.png) |
-| CloudFront Setup | ![alt text](image-2.png)|
+You can find the result screenshots in the resultscreenshots folder
 
 ---
 
